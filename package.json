@@ -7,8 +7,8 @@
     "build": "nx build",
     "test": "nx test",
     "nx": "nx",
-    "run-many": "nx run-many --target=serve --projects=nest-backend,angular-front",
-    "test-many": "nx run-many --target=test --projects=nest-backend,angular-front"
+    "run-both": "nx run-many --target=serve --projects=nest-backend,angular-front",
+    "test-both": "nx run-many --target=test --projects=nest-backend,angular-front"
   },
   "private": true,
   "dependencies": {
