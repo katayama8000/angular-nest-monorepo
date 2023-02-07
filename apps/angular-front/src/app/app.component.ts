@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-front';
-  response = fetch('http://localhost:3333/api').then(res => res.json());
+  response = fetch('http://localhost:3333/api').then((res) => res.json());
 }

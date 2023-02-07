@@ -8,7 +8,9 @@
     "test": "nx test",
     "nx": "nx",
     "run-both": "nx run-many --target=serve --projects=nest-backend,angular-front",
-    "test-both": "nx run-many --target=test --projects=nest-backend,angular-front"
+    "test-both": "nx run-many --target=test --projects=nest-backend,angular-front",
+    "lint": "nx run-many --target=lint --projects=nest-backend,angular-front",
+    "lint-fix": "nx run-many --target=lint --projects=nest-backend,angular-front --fix"
   },
   "private": true,
   "dependencies": {
