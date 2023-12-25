@@ -224,10 +224,10 @@
   dependencies:
     tslib "^2.3.0"
 
-"@angular/ssr@^17.0.6":
-  version "17.0.6"
-  resolved "https://registry.yarnpkg.com/@angular/ssr/-/ssr-17.0.6.tgz#041143bdfa4706b2068905c105857e2d99d3e453"
-  integrity sha512-QFHBZWb/ZvSQbPQn917qvUWZuWC6YuQGzAAZMmXkEaHhF3CnWpSky+QQTm24HsHXi+EK8jwqpGyurAQil8O0eQ==
+"@angular/ssr@^17.0.8":
+  version "17.0.8"
+  resolved "https://registry.yarnpkg.com/@angular/ssr/-/ssr-17.0.8.tgz#737205ac633e212a6e890176161f6b44ef90a8cc"
+  integrity sha512-7dTP4kU8O50yKMeOQ/74nJgRnfyVaOMKOalzUktMRdZR4MKN9JfG1XfqiUVFK0V8UNGLrOGI+M004wAnm3DOtg==
   dependencies:
     critters "0.0.20"
     tslib "^2.3.0"
